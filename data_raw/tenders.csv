@@ -1,0 +1,84 @@
+TenderID,ProjectType,Client,City,SubmissionDate,OverheadPct,ProfitPct,BidPrice_EGP,WinningBid_EGP,Result,Competitors
+T-001,Food Factory,Pyramid Foods,Alexandria,13.04.2013,35.4,12.4,14025669,12821571,Lost,6
+T-002,Office,Delta Real Estate,Giza,09/05/2013,36.6,8.7,11360187,9360406,Lost,3
+T-003,Office,Delta Real Estate,Cairo,2014-03-19,31.8,8.4,17855502,15713719,Lost,7
+T-004,Office,Lotus Offices,Alexandria,20.05.2016,36.5,14.0,10209551,9897005,Lost,6
+T-005,Pharma Factory,Crescent Healthcare,Giza,06.08.2014,28.7,15.8,21225781,21225781,Won,7
+T-006,Shopping Mall,Delta Real Estate,Giza,16.11.2016,37.9,10.4,92681747,85934712,lost,6
+T-007,Pharma Factory,Sphinx Industrial,Cairo,30/07/2013,37.7,20.6,18039036,17249839,Lost,4
+T-008,Pharma Factory,Sphinx Industrial,Borg El Arab,24/06/2016,37.7,21.7,42279638,40836091,Lost,2
+T-009,Office,Delta Real Estate,6th of October,2017-07-22,31.6,16.0,58560949,56198063,Lost,6
+T-010,Food Factory,Golden Grain Foods,Cairo,2018-05-14,33.3,13.1,24409755,24409755,WON,6
+T-011,Shopping Mall,Delta Real Estate,Borg El Arab,22.04.2015,35.2,11.9,38033821,31668598,Lost,4
+T-012,Office,Lotus Offices,10th of Ramadan,2013-11-27,34.5,16.6,12128519,11293995,lost,4
+T-013,Pharma Factory,Mediterranean Pharma,6th of October,29.05.2017,31.7,24.3,87514366,85620916,lost,5
+T-014,Pharma Factory,Mediterranean Pharma,6th of October,13.05.2013,32.5,17.8,15049724,13186418,lost,7
+T-015,Food Factory,Pyramid Foods,10th of Ramadan,18/12/2017,36.6,10.9,23314696,23314696,WON,4
+T-016,Pharma Factory,Crescent Healthcare,10th of Ramadan,05/01/2015,30.2,19.7,20525982,,lost,6
+T-017,Shopping Mall,Nile Development Co.,6th of October,14.09.2017,30.0,15.1,65458044,63106321,lost,2
+T-018,Office,Lotus Offices,6th of October,16.11.2014,37.7,16.1,10017628,9522380,lost,7
+T-019,Pharma Factory,Crescent Healthcare,Giza,08.01.2017,33.1,23.3,50823888,43478797,lost,2
+T-020,Shopping Mall,Nile Development Co.,Alexandria,2017-03-12,35.0,8.4,60826817,57894365,lost,5
+T-021,Office,Lotus Offices,Cairo,19.11.2019,37.2,10.4,31161624,31161624,won,5
+T-022,Shopping Mall,Horizon Malls,Cairo,09.01.2017,35.7,11.9,61627356,61627356,WON,5
+T-023,Food Factory,Golden Grain Foods,10th of Ramadan,05.09.2014,34.1,11.8,22709218,19110158,lost,3
+T-024,Shopping Mall,Horizon Malls,Cairo,2019-04-22,36.6,8.4,53508679,53508679,WON,5
+T-025,Shopping Mall,Horizon Malls,Alexandria,29.01.2018,30.7,13.0,75934136,73936603,lost,2
+T-026,Office,Delta Real Estate,10th of Ramadan,26/11/2018,34.6,13.7,12787896,12787896,WON,6
+T-027,Food Factory,Sphinx Industrial,Giza,02.08.2014,35.0,16.7,24447346,21257528,Lost,2
+T-028,Pharma Factory,Crescent Healthcare,Cairo,15.01.2013,34.2,16.8,32535143,32535143,WON,2
+T-029,Food Factory,Sphinx Industrial,Borg El Arab,01.01.2018,34.2,13.1,41283328,,Lost,6
+T-030,Office,Nile Development Co.,Alexandria,16/11/2013,34.8,13.4,26304148,,Lost,6
+T-031,Shopping Mall,Nile Development Co.,Alexandria,18/05/2015,36.1,13.3,49174838,49174838,won,7
+T-032,Shopping Mall,Delta Real Estate,Giza,29.04.2016,32.3,10.2,34332582,30792129,Lost,7
+T-033,Shopping Mall,Delta Real Estate,10th of Ramadan,15/06/2019,28.2,10.1,40388393,40388393,won,2
+T-034,Food Factory,Golden Grain Foods,10th of Ramadan,2016-03-11,31.2,10.3,12523078,12523078,WON,3
+T-035,Pharma Factory,Sphinx Industrial,Cairo,22/11/2018,30.5,23.7,55352772,47895356,Lost,3
+T-036,Office,Nile Development Co.,6th of October,09/12/2015,30.4,12.5,13993973,13993973,WON,4
+T-037,Shopping Mall,Horizon Malls,10th of Ramadan,2019-05-18,28.5,8.6,60335687,60335687,won,5
+T-038,Pharma Factory,Crescent Healthcare,10th of Ramadan,2017-01-02,34.8,15.9,69636300,62915046,Lost,2
+T-039,Pharma Factory,Crescent Healthcare,10th of Ramadan,01/02/2016,35.9,16.7,51780101,51780101,WON,2
+T-040,Food Factory,Sphinx Industrial,Giza,28/06/2016,33.8,15.4,19695716,17623887,lost,4
+T-041,Office,Nile Development Co.,Cairo,2017-12-15,30.3,14.5,22801491,19715598,Lost,3
+T-042,Office,Lotus Offices,6th of October,2018-12-30,35.4,9.7,43755467,43755467,WON,6
+T-043,Food Factory,Golden Grain Foods,Giza,11/11/2016,36.1,12.7,20730337,18991243,lost,6
+T-044,Food Factory,Golden Grain Foods,Borg El Arab,2019-04-21,37.7,14.4,45246693,42774230,Lost,6
+T-045,Food Factory,Sphinx Industrial,Cairo,30.04.2015,37.7,19.0,16512340,16512340,Won,3
+T-046,Shopping Mall,Horizon Malls,Cairo,02.04.2017,29.7,15.8,40881597,39305473,Lost,6
+T-047,Office,Lotus Offices,6th of October,17/02/2019,34.2,11.0,45956240,45956240,won,2
+T-048,Pharma Factory,Mediterranean Pharma,Alexandria,2015-01-15,35.7,17.9,28100423,24675895,lost,2
+T-049,Office,Delta Real Estate,Borg El Arab,2018-04-23,37.8,15.6,49268645,41743634,lost,6
+T-050,Office,Lotus Offices,6th of October,31/05/2017,36.3,16.0,60984723,58104782,lost,2
+T-051,Shopping Mall,Horizon Malls,Giza,2019-03-30,35.7,12.0,17229054,17229054,WON,3
+T-052,Food Factory,Pyramid Foods,Giza,25/05/2017,31.9,12.2,49544278,49544278,Won,5
+T-053,Pharma Factory,Mediterranean Pharma,10th of Ramadan,18/02/2019,30.6,20.7,54060662,45329503,lost,5
+T-054,Shopping Mall,Horizon Malls,Borg El Arab,2013-08-26,30.4,8.7,18292004,16613377,lost,4
+T-055,Office,Nile Development Co.,10th of Ramadan,21.07.2018,29.3,14.3,32703720,32703720,WON,6
+T-056,Shopping Mall,Nile Development Co.,10th of Ramadan,05/08/2016,32.4,12.1,37374321,31243015,lost,4
+T-057,Office,Nile Development Co.,Giza,23.07.2017,33.6,12.8,41897203,35512640,lost,7
+T-058,Office,Nile Development Co.,Cairo,14.01.2013,31.1,13.6,8774405,8774405,won,5
+T-059,Office,Lotus Offices,10th of Ramadan,15/10/2014,31.4,12.7,25263731,24695328,Lost,3
+T-060,Shopping Mall,Nile Development Co.,Borg El Arab,2019-09-21,30.8,14.2,88733771,84201475,lost,7
+T-061,Food Factory,Pyramid Foods,Giza,2018-07-11,34.3,13.3,34680462,29730749,lost,5
+T-062,Office,Lotus Offices,Cairo,17/03/2017,28.3,16.7,29481662,29481662,WON,4
+T-063,Food Factory,Pyramid Foods,Giza,14.09.2014,30.1,11.4,25127468,24456428,Lost,6
+T-064,Office,Lotus Offices,6th of October,10.09.2018,35.1,13.4,11006633,10639646,Lost,2
+T-065,Pharma Factory,Crescent Healthcare,Borg El Arab,08/01/2014,34.6,17.5,35739097,34691976,lost,7
+T-066,Pharma Factory,Crescent Healthcare,10th of Ramadan,14.03.2018,31.6,17.6,58430305,54534057,lost,5
+T-067,Food Factory,Golden Grain Foods,Giza,2019-08-22,36.7,10.6,30685777,28120936,Lost,6
+T-068,Food Factory,Sphinx Industrial,10th of Ramadan,06/02/2016,35.1,13.6,23700641,20441885,Lost,7
+T-069,Food Factory,Pyramid Foods,10th of Ramadan,2015-11-16,31.3,13.3,23403025,23403025,WON,6
+T-070,Food Factory,Sphinx Industrial,10th of Ramadan,06.11.2014,35.4,16.8,19656827,19656827,Won,3
+T-071,Office,Lotus Offices,Cairo,2014-06-05,36.6,9.5,15494078,15494078,WON,7
+T-072,Food Factory,Sphinx Industrial,Borg El Arab,29.12.2015,37.3,13.5,17337843,17337843,WON,5
+T-073,Food Factory,Pyramid Foods,Borg El Arab,2019-03-05,33.4,14.0,73641134,,lost,7
+T-074,Pharma Factory,Crescent Healthcare,Borg El Arab,2017-02-11,34.8,24.1,78840693,78840693,won,4
+T-075,Office,Lotus Offices,Cairo,18/02/2015,34.2,12.8,20185260,17422752,Lost,5
+T-076,Food Factory,Sphinx Industrial,Cairo,14.06.2018,31.8,19.9,50723431,47762316,lost,6
+T-077,Office,Lotus Offices,Cairo,2013-02-17,35.8,15.8,14390831,13542396,Lost,2
+T-078,Pharma Factory,Mediterranean Pharma,6th of October,21.10.2019,34.0,15.6,36748072,35719510,lost,7
+T-079,Pharma Factory,Mediterranean Pharma,10th of Ramadan,12/11/2016,37.6,23.8,30724634,,lost,4
+T-080,Office,Delta Real Estate,Borg El Arab,26/06/2013,37.7,8.9,14260331,14260331,Won,4
+T-018,Office,Lotus Offices,6th of October,16.11.2014,37.7,16.1,10017628,9522380,lost,7
+T-046,Shopping Mall,Horizon Malls,Cairo,02.04.2017,29.7,15.8,40881597,39305473,Lost,6
+T-079,Pharma Factory,Mediterranean Pharma,10th of Ramadan,12/11/2016,37.6,23.8,30724634,,lost,4

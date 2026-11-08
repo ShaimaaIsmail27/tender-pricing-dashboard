@@ -1,0 +1,669 @@
+TenderID,ItemNo,System,ItemCategory,Origin,Quantity,Unit,MaterialUnit_EGP,AddonsLabourUnit_EGP
+T-001,1,HVAC,Chiller,Imported,3,nr,888817,207416
+T-001,2,Fire Fighting,Fire Pump Set,Imported,2,No.,324077,104744
+T-001,3,Fire Fighting,Fire Hose Cabinet,Local,70,nr,6037,1873
+T-001,4,Plumbing,Drainage Pipe,Local,1466,M,223,50
+T-001,5,HVAC,ahu ,Local,16,nr,161657,61523
+T-001,6,Plumbing,Sanitary Fixture,Imported,150,No.,3301,734
+T-001,7,Plumbing,Water Supply Pipe,Local,975,m,179,40
+T-002,1,HVAC,Chilled Water Pipe,Local,2236,m,591,231
+T-002,2,Plumbing,Sanitary Fixture,Imported,294,nr,3119,470
+T-002,3,HVAC,Ductwork,Local,5473,sqm,414,112
+T-002,4,HVAC,Fan coil unit,Imported,83,No.,8514,2448
+T-002,5,Plumbing,Water Supply Pipe,Local,1173,meter,186,68
+T-002,6,Fire Fighting,Fire Hose Cabinet,Local,59,No.,5782,998
+T-002,7,Plumbing,Drainage Pipe,Local,1317,m,233,100
+T-003,1,HVAC,Ductwork,Local,3964,M2,446,148
+T-003,2,Fire Fighting,Fire Hose Cabinet,Local,41,nr,6749,2470
+T-003,3,Plumbing,Sanitary Fixture,Imported,229,pcs,3408,1202
+T-003,4,Plumbing,Water Supply Pipe,Local,995,meter,199,57
+T-003,5,HVAC,FCU,Imported,69,No.,8790,3279
+T-003,6,HVAC,Chiller,Imported,3,pcs,945547,378093
+T-003,7,Fire Fighting,Fire Pump Set,Imported,1,No.,349427,114461
+T-003,8,HVAC,AHU,Local,12,No.,178772,67267
+T-003,9,Plumbing,Drainage Pipe,Local,1472,meter,244,79
+T-004,1,Fire Fighting,Sprinkler Head,Imported,582,pcs,143,59
+T-004,2,HVAC,Air Handling Unit,Local,11,nr,230293,89326
+T-004,3,Plumbing,Water Supply Pipe,Local,1296,meter,226,53
+T-004,4,Plumbing,Drainage Pipe,Local,1422,M,254,64
+T-004,5,Fire Fighting,Fire Pump Set,Imported,2,nr,404024,154623
+T-004,6,HVAC,Fan Coil Unit,Imported,96,pcs,10843,1858
+T-005,1,Fire Fighting,Sprinkler,Imported,2547,nr,119,53
+T-005,2,Fire Fighting,Fire Hose Cabinet,Local,45,nr,7389,2566
+T-005,3,HVAC,Chilled Water Pipe,Local,940,m,833,203
+T-005,4,Plumbing,Sanitary Fixture,Imported,243,pcs,3792,1005
+T-005,5,HVAC,AHU,Local,7,No.,200346,86120
+T-005,6,HVAC,Ductwork,Local,12733,sqm,464,143
+T-005,7,HVAC,Fan coil unit,Imported,101,nr,10495,3968
+T-005,8,Plumbing,Water Supply Pipe,Local,1766,M,205,59
+T-006,1,HVAC,Chilled Water Pipe,Local,5284,meter,1399,541
+T-006,2,Plumbing,Sanitary Fixture,Imported,174,No.,9302,3639
+T-006,3,Fire Fighting,Fire Hose Cabinet,Local,28,No.,12964,2366
+T-006,4,HVAC,Ductwork,Local,12348,M2,1012,421
+T-006,5,Fire Fighting,sprinkler head,Imported,3638,No.,253,87
+T-006,6,Plumbing,Drainage Pipe,Local,3622,m,485,75
+T-006,7,HVAC,Air handling unit,Local,22,No.,368622,109510
+T-006,8,HVAC,Chiller,Imported,6,pcs,2025694,785825
+T-006,9,Plumbing,Water Supply Pipe,Local,2360,meter,372,146
+T-007,1,HVAC,Chiller,Imported,2,nr,861909,153012
+T-007,2,Fire Fighting,sprinkler head,Imported,3634,pcs,113,40
+T-007,3,Fire Fighting,Fire Pump Set,Imported,4,pcs,352321,71418
+T-007,4,HVAC,Ductwork,Local,8226,M2,422,118
+T-007,5,Fire Fighting,Fire Hose Cabinet,Local,76,No.,6517,1478
+T-007,6,Plumbing,Water Supply Pipe,Local,1094,m,181,59
+T-007,7,Plumbing,Sanitary Fixture,Imported,320,pcs,3335,1483
+T-007,8,Plumbing,Drainage Pipe,Local,995,M,210,52
+T-008,1,HVAC,Fan coil unit,Imported,358,nr,10361,3612
+T-008,2,Fire Fighting,Sprinkler,Imported,1676,No.,166,73
+T-008,3,HVAC,Chiller,Imported,5,nr,1111464,197301
+T-008,4,HVAC,CHW Pipe,Local,3116,m,788,335
+T-008,5,Plumbing,Sanitary Fixture,Imported,,pcs,4219,1388
+T-008,6,HVAC,Ductwork,Local,8573,M2,520,214
+T-008,7,Fire Fighting,Fire Hose Cabinet,Local,50,No.,8078,1923
+T-008,8,Fire Fighting,Fire Pump Set,Imported,2,pcs,454187,162427
+T-008,9,Plumbing,Drainage Pipe,Local,1343,M,264,53
+T-009,1,HVAC,Fan coil unit,Imported,118,nr,21603,6596
+T-009,2,HVAC,ahu ,Local,9,No.,414730,130640
+T-009,3,Fire Fighting,Fire Hose Cabinet,Local,50,pcs,14657,2488
+T-009,4,Plumbing,Sanitary Fixture,Imported,265,pcs,8359,3598
+T-009,5,Fire Fighting,Sprinkler,Imported,3965,No.,283,108
+T-009,6,HVAC,Chiller,Imported,4,No.,1919727,584545
+T-009,7,Plumbing,Drainage Pipe,Local,1155,meter,449,170
+T-009,8,Plumbing,Water Supply Pipe,Local,2212,meter,357,93
+T-009,9,Fire Fighting,Fire Pump Set,Imported,1,nr,775550,148216
+T-009,10,HVAC,Ductwork,Local,8287,sqm,1036,409
+T-009,11,HVAC,chilled water pipe,Local,748,meter,1389,271
+T-010,1,Plumbing,Sanitary Fixture,Imported,400,nr,8466,1579
+T-010,2,Fire Fighting,Fire Pump Set,Imported,3,nr,754136,257450
+T-010,3,Plumbing,Water Supply Pipe,Local,2478,m,415,176
+T-010,4,Fire Fighting,Sprinkler Head,Imported,672,nr,279,102
+T-010,5,Fire Fighting,Fire Hose Cabinet,Local,62,nr,14560,3213
+T-010,6,Plumbing,Drainage Pipe,Local,1227,m,541,141
+T-010,7,HVAC,Fan Coil Unit,Imported,213,pcs,19633,8347
+T-011,1,Plumbing,Sanitary Fixture,Imported,354,No.,4116,972
+T-011,2,HVAC,AHU,Local,24,pcs,192940,55603
+T-011,3,Fire Fighting,Fire Hose Cabinet,Local,106,No.,6888,1864
+T-011,4,HVAC,Fan coil unit,Imported,68,No.,11246,1893
+T-011,5,HVAC,Chilled Water Pipe,Local,5728,M,694,220
+T-011,6,HVAC,Ductwork,Local,8262,M2,492,216
+T-011,7,Plumbing,Water Supply Pipe,Local,2586,m,204,77
+T-011,8,Fire Fighting,sprinkler head,Imported,3636,pcs,133,25
+T-011,9,Fire Fighting,Fire Pump Set,Imported,2,nr,422046,65299
+T-011,10,HVAC,Chiller,Imported,2,nr,1206273,250398
+T-012,1,HVAC,Chiller,Imported,1,pcs,894127,317709
+T-012,2,Plumbing,Drainage Pipe,Local,1354,meter,222,84
+T-012,3,Fire Fighting,sprinkler head,Imported,3266,nr,128,36
+T-012,4,Fire Fighting,Fire Pump Set,Imported,1,pcs,330487,59814
+T-012,5,HVAC,CHW Pipe,Local,681,m,639,234
+T-012,6,HVAC,Ductwork,Local,8301,M2,454,133
+T-013,1,Fire Fighting,sprinkler head,Imported,3771,No.,278,106
+T-013,2,Fire Fighting,Fire Pump Set,Imported,2,No.,780602,198662
+T-013,3,HVAC,Fan coil unit,Imported,275,pcs,18874,7348
+T-013,4,HVAC,Air Handling Unit,Local,22,nr,377798,125955
+T-013,5,Plumbing,Water Supply Pipe,Local,1811,M,405,120
+T-013,6,HVAC,Ductwork,Local,14740,m2,973,311
+T-013,7,HVAC,Chiller,Imported,5,pcs,2213802,692063
+T-014,1,Plumbing,Sanitary Fixture,Imported,358,No.,3265,1177
+T-014,2,HVAC,Chiller,Imported,5,pcs,813736,233061
+T-014,3,HVAC,Ductwork,Local,1512,M2,449,144
+T-014,4,Fire Fighting,Fire Pump Set,Imported,2,No.,320709,132237
+T-014,5,Plumbing,Drainage Pipe,Local,2772,m,214,33
+T-014,6,Plumbing,Water Supply Pipe,Local,3652,meter,165,28
+T-015,1,HVAC,Fan Coil Unit,Imported,82,pcs,20718,6184
+T-015,2,HVAC,Chiller,Imported,2,No.,2166481,495378
+T-015,3,Plumbing,Drainage Pipe,Local,2724,meter,436,142
+T-015,4,Plumbing,Water Supply Pipe,Local,855,M,366,73
+T-015,5,HVAC,Ductwork,Local,4101,sqm,889,340
+T-015,6,Fire Fighting,Fire Hose Cabinet,Local,76,pcs,13910,3023
+T-016,1,Plumbing,Drainage Pipe,Local,1566,m,240,36
+T-016,2,HVAC,Chiller,Imported,5,pcs,1010276,164847
+T-016,3,Plumbing,Sanitary Fixture,Imported,416,No.,3630,799
+T-016,4,HVAC,CHW Pipe,Local,4849,meter,731,157
+T-016,5,Fire Fighting,Fire Hose Cabinet,Local,36,pcs,6924,1812
+T-016,6,HVAC,Fan Coil Unit,Imported,74,pcs,9732,2762
+T-017,1,HVAC,Ductwork,Local,12872,m2,887,228
+T-017,2,Fire Fighting,Fire Pump Set,Imported,2,No.,899959,267406
+T-017,3,HVAC,Air handling unit,Local,22,nr,356658,128883
+T-017,4,Plumbing,Drainage Pipe,Local,1636,meter,516,209
+T-017,5,Plumbing,Sanitary Fixture,Imported,72,pcs,8472,2888
+T-017,6,Plumbing,Water Supply Pipe,Local,3350,m,379,75
+T-017,7,HVAC,Fan coil unit,Imported,190,nr,24190,6759
+T-017,8,Fire Fighting,Fire Hose Cabinet,Local,30,nr,13589,2664
+T-017,9,HVAC,Chilled Water Pipe,Local,1316,meter,1392,403
+T-017,10,HVAC,Chiller,Imported,2,pcs,2124300,622162
+T-018,1,HVAC,AHU,Local,11,pcs,190512,44318
+T-018,2,Plumbing,Drainage Pipe,Local,1620,meter,233,54
+T-018,3,HVAC,Chiller,Imported,1,pcs,1034931,197356
+T-018,4,Fire Fighting,Sprinkler,Imported,418,No.,148,33
+T-018,5,Fire Fighting,Fire Pump Set,Imported,2,pcs,368153,155896
+T-018,6,Plumbing,Water Supply Pipe,Local,,meter,229,75
+T-018,7,Plumbing,Sanitary Fixture,Imported,211,pcs,3757,1020
+T-019,1,Fire Fighting,Fire Pump Set,Imported,2,nr,892111,170580
+T-019,2,HVAC,Fan coil unit,Imported,297,nr,19234,2912
+T-019,3,HVAC,Chilled Water Pipe,Local,643,M,1420,591
+T-019,4,HVAC,Chiller,Imported,5,pcs,2054133,539329
+T-019,5,HVAC,Ductwork,Local,2873,sqm,923,322
+T-019,6,Plumbing,Sanitary Fixture,Imported,,No.,7706,1698
+T-019,7,Fire Fighting,Sprinkler,Imported,1354,nr,270,67
+T-019,8,Plumbing,Water Supply Pipe,Local,1224,meter,372,124
+T-019,9,Fire Fighting,Fire Hose Cabinet,Local,11,pcs,13038,3986
+T-019,10,Plumbing,Drainage Pipe,Local,711,m,476,150
+T-019,11,HVAC,ahu ,Local,5,No.,400781,146284
+T-020,1,Plumbing,Sanitary Fixture,Imported,,pcs,7838,3442
+T-020,2,HVAC,Fan coil unit,Imported,64,pcs,20723,6854
+T-020,3,Plumbing,Drainage Pipe,Local,2642,m,486,191
+T-020,4,HVAC,Chiller,Imported,8,pcs,2005733,790676
+T-020,5,Fire Fighting,Sprinkler,Imported,6656,pcs,266,56
+T-020,6,HVAC,CHW Pipe,Local,5904,meter,1493,242
+T-020,7,Fire Fighting,Fire Hose Cabinet,Local,88,pcs,13942,3005
+T-021,1,Fire Fighting,Fire Hose Cabinet,Local,39,pcs,12939,2739
+T-021,2,Plumbing,Water Supply Pipe,Local,2082,M,402,115
+T-021,3,Plumbing,Drainage Pipe,Local,234,meter,486,96
+T-021,4,HVAC,Chiller,Imported,4,nr,1859422,368698
+T-021,5,HVAC,Ductwork,Local,3983,sqm,987,430
+T-021,6,HVAC,Fan Coil Unit,Imported,187,pcs,20348,4964
+T-022,1,HVAC,Fan coil unit,Imported,314,nr,22140,5928
+T-022,2,Fire Fighting,Sprinkler Head,Imported,1696,nr,275,45
+T-022,3,HVAC,Chiller,Imported,8,nr,2117934,935708
+T-022,4,HVAC,Chilled Water Pipe,Local,3490,M,1283,274
+T-022,5,Plumbing,Drainage Pipe,Local,490,M,476,197
+T-022,6,Fire Fighting,Fire Pump Set,Imported,2,nr,829516,272877
+T-023,1,Fire Fighting,Sprinkler Head,Imported,3657,nr,131,34
+T-023,2,HVAC,Air Handling Unit,Local,12,nr,193501,78658
+T-023,3,Fire Fighting,Fire Pump Set,Imported,2,No.,390159,66024
+T-023,4,HVAC,Chiller,Imported,2,No.,1023005,263855
+T-023,5,Fire Fighting,Fire Hose Cabinet,Local,15,No.,6828,1559
+T-023,6,HVAC,Ductwork,Local,2978,M2,500,195
+T-023,7,Plumbing,Sanitary Fixture,Imported,426,pcs,3962,1187
+T-023,8,Plumbing,Drainage Pipe,Local,1042,meter,254,52
+T-023,9,HVAC,FCU,Imported,136,nr,10200,2636
+T-023,10,HVAC,chilled water pipe,Local,1906,m,662,258
+T-024,1,HVAC,FCU,Imported,88,No.,20838,6962
+T-024,2,HVAC,Air handling unit,Local,8,No.,352947,75238
+T-024,3,HVAC,Ductwork,Local,17104,sqm,958,271
+T-024,4,HVAC,chilled water pipe,Local,1996,M,1467,450
+T-024,5,Fire Fighting,Fire Pump Set,Imported,4,nr,763444,237072
+T-024,6,Plumbing,Water Supply Pipe,Local,4508,M,392,92
+T-025,1,Plumbing,Water Supply Pipe,Local,1436,m,396,68
+T-025,2,HVAC,AHU,Local,12,No.,377775,129031
+T-025,3,HVAC,Fan Coil Unit,Imported,380,nr,21028,5497
+T-025,4,Fire Fighting,sprinkler head,Imported,1348,No.,281,89
+T-025,5,HVAC,Chilled Water Pipe,Local,5242,M,1518,562
+T-025,6,Plumbing,Sanitary Fixture,Imported,284,pcs,7677,2269
+T-025,7,HVAC,Chiller,Imported,8,nr,2081172,642471
+T-026,1,Fire Fighting,Fire Pump Set,Imported,2,pcs,797782,209433
+T-026,2,Fire Fighting,Fire Hose Cabinet,Local,21,No.,12640,2039
+T-026,3,Plumbing,Drainage Pipe,Local,742,M,444,113
+T-026,4,HVAC,Chiller,Imported,1,nr,2046387,337973
+T-026,5,Fire Fighting,Sprinkler,Imported,2125,nr,265,100
+T-026,6,Plumbing,Water Supply Pipe,Local,1919,M,387,98
+T-026,7,HVAC,Chilled Water Pipe,Local,993,meter,1408,401
+T-027,1,Fire Fighting,sprinkler head,Imported,4246,nr,119,19
+T-027,2,Fire Fighting,Fire Pump Set,Imported,3,pcs,393274,76890
+T-027,3,HVAC,AHU,Local,6,No.,188220,67112
+T-027,4,HVAC,Chilled Water Pipe,Local,4480,m,736,144
+T-027,5,HVAC,Chiller,Imported,2,No.,1038061,443906
+T-027,6,Fire Fighting,Fire Hose Cabinet,Local,78,pcs,7136,2612
+T-027,7,HVAC,FCU,Imported,249,nr,9938,4127
+T-027,8,Plumbing,Drainage Pipe,Local,1203,M,263,65
+T-027,9,Plumbing,Sanitary Fixture,Imported,184,pcs,3937,1617
+T-028,1,Plumbing,Sanitary Fixture,Imported,473,No.,3278,599
+T-028,2,Fire Fighting,Fire Hose Cabinet,Local,86,pcs,5977,1837
+T-028,3,Fire Fighting,Fire Pump Set,Imported,2,pcs,334903,99718
+T-028,4,HVAC,ahu ,Local,9,pcs,160477,57090
+T-028,5,HVAC,CHW Pipe,Local,5081,meter,637,255
+T-028,6,HVAC,Ductwork,Local,10744,sqm,471,151
+T-028,7,HVAC,Chiller,Imported,2,pcs,824027,207684
+T-028,8,Plumbing,Drainage Pipe,Local,1503,M,195,48
+T-028,9,HVAC,Fan coil unit,Imported,281,nr,7902,1254
+T-029,1,Fire Fighting,Fire Hose Cabinet,Local,86,nr,12992,2204
+T-029,2,Fire Fighting,Fire Pump Set,Imported,3,No.,899494,294279
+T-029,3,HVAC,Chiller,Imported,3,pcs,1915823,631221
+T-029,4,Plumbing,Sanitary Fixture,Imported,321,pcs,7461,2423
+T-029,5,HVAC,CHW Pipe,Local,2932,meter,1483,539
+T-029,6,Fire Fighting,Sprinkler Head,Imported,1748,pcs,255,113
+T-029,7,HVAC,Air Handling Unit,Local,12,pcs,362010,117320
+T-030,1,HVAC,CHW Pipe,Local,,m,628,146
+T-030,2,Fire Fighting,Sprinkler,Imported,2773,No.,124,50
+T-030,3,HVAC,Air Handling Unit,Local,12,pcs,201159,71119
+T-030,4,Plumbing,Water Supply Pipe,Local,1749,M,190,34
+T-030,5,Fire Fighting,Fire Hose Cabinet,Local,27,pcs,7068,2452
+T-030,6,Fire Fighting,Fire Pump Set,Imported,1,nr,368477,85924
+T-030,7,HVAC,Ductwork,Local,6250,m2,488,207
+T-030,8,Plumbing,Drainage Pipe,Local,271,M,235,76
+T-030,9,HVAC,Fan coil unit,Imported,142,pcs,8631,3800
+T-030,10,HVAC,Chiller,Imported,4,nr,837884,324950
+T-031,1,Fire Fighting,Fire Hose Cabinet,Local,12,pcs,6941,1744
+T-031,2,Fire Fighting,Fire Pump Set,Imported,,nr,399372,153079
+T-031,3,HVAC,Fan Coil Unit,Imported,80,pcs,10624,3539
+T-031,4,HVAC,Ductwork,Local,17980,m2,573,134
+T-031,5,HVAC,ahu ,Local,24,pcs,199775,65489
+T-031,6,Plumbing,Drainage Pipe,Local,3172,M,241,88
+T-031,7,HVAC,Chiller,Imported,4,nr,1004122,410344
+T-031,8,Plumbing,Sanitary Fixture,Imported,512,No.,4194,1648
+T-031,9,Fire Fighting,Sprinkler,Imported,4306,pcs,135,28
+T-032,1,Fire Fighting,Fire Pump Set,Imported,4,nr,419076,97705
+T-032,2,Fire Fighting,Sprinkler Head,Imported,4306,pcs,145,43
+T-032,3,HVAC,Ductwork,Local,2342,M2,535,129
+T-032,4,HVAC,Chiller,Imported,4,No.,1091384,177181
+T-032,5,HVAC,CHW Pipe,Local,4210,meter,847,247
+T-032,6,HVAC,Fan coil unit,Imported,380,pcs,10687,1779
+T-032,7,HVAC,Air handling unit,Local,10,No.,220240,56251
+T-032,8,Plumbing,Water Supply Pipe,Local,2366,M,209,32
+T-032,9,Plumbing,Drainage Pipe,Local,2096,m,260,83
+T-032,10,Fire Fighting,Fire Hose Cabinet,Local,110,pcs,8351,2488
+T-033,1,HVAC,Air handling unit,Local,14,No.,383973,147308
+T-033,2,HVAC,Fan Coil Unit,Imported,92,pcs,22190,7929
+T-033,3,Plumbing,Water Supply Pipe,Local,4884,meter,364,58
+T-033,4,Plumbing,Sanitary Fixture,Imported,100,pcs,7359,2913
+T-033,5,Fire Fighting,Fire Pump Set,Imported,2,nr,847532,234959
+T-033,6,HVAC,Chiller,Imported,2,No.,1836804,818275
+T-033,7,Fire Fighting,sprinkler head,Imported,7928,pcs,269,63
+T-033,8,Plumbing,Drainage Pipe,Local,1518,m,475,142
+T-033,9,Fire Fighting,Fire Hose Cabinet,Local,58,nr,14378,3514
+T-033,10,HVAC,Ductwork,Local,2778,sqm,1067,312
+T-034,1,HVAC,Fan coil unit,Imported,160,No.,11020,2534
+T-034,2,Plumbing,Water Supply Pipe,Local,2394,meter,217,50
+T-034,3,Fire Fighting,Sprinkler,Imported,2919,pcs,144,30
+T-034,4,HVAC,Air Handling Unit,Local,14,nr,226102,61744
+T-034,5,Plumbing,Drainage Pipe,Local,1119,meter,270,61
+T-034,6,Fire Fighting,Fire Pump Set,Imported,2,No.,396386,171615
+T-035,1,Fire Fighting,Sprinkler,Imported,6480,No.,250,89
+T-035,2,HVAC,Chiller,Imported,5,nr,2136607,920657
+T-035,3,Plumbing,Water Supply Pipe,Local,2090,m,396,145
+T-035,4,Fire Fighting,Fire Pump Set,Imported,2,pcs,774983,142014
+T-035,5,Plumbing,Drainage Pipe,Local,3190,M,439,120
+T-035,6,HVAC,CHW Pipe,Local,4745,meter,1486,289
+T-035,7,HVAC,Ductwork,Local,4900,sqm,900,170
+T-036,1,Plumbing,Water Supply Pipe,Local,1624,m,207,39
+T-036,2,Fire Fighting,Sprinkler,Imported,2677,nr,147,63
+T-036,3,Plumbing,Sanitary Fixture,Imported,155,nr,4282,1100
+T-036,4,HVAC,Chiller,Imported,4,pcs,1077317,169988
+T-036,5,HVAC,ahu ,Local,3,nr,214096,38059
+T-036,6,HVAC,Ductwork,Local,2261,sqm,568,199
+T-036,7,Fire Fighting,Fire Pump Set,Imported,1,nr,401019,116482
+T-037,1,Fire Fighting,Fire Pump Set,Imported,4,No.,740002,325612
+T-037,2,HVAC,Chiller,Imported,4,pcs,2110162,866504
+T-037,3,Fire Fighting,Fire Hose Cabinet,Local,102,nr,12981,3119
+T-037,4,Plumbing,Drainage Pipe,Local,2128,meter,500,125
+T-037,5,HVAC,Ductwork,Local,15748,m2,935,146
+T-037,6,HVAC,Air handling unit,Local,18,nr,360018,75548
+T-038,1,HVAC,Air handling unit,Local,16,No.,375700,136172
+T-038,2,HVAC,Chiller,Imported,4,nr,2053580,393052
+T-038,3,Plumbing,Water Supply Pipe,Local,3922,meter,372,103
+T-038,4,Plumbing,Drainage Pipe,Local,2399,m,500,184
+T-038,5,Fire Fighting,Fire Hose Cabinet,Local,68,nr,13715,5170
+T-038,6,HVAC,chilled water pipe,Local,2736,M,1471,365
+T-038,7,Fire Fighting,sprinkler head,Imported,3888,nr,268,87
+T-038,8,Plumbing,Sanitary Fixture,Imported,486,nr,8126,2493
+T-038,9,HVAC,Fan coil unit,Imported,207,No.,19383,5671
+T-038,10,HVAC,Ductwork,Local,5524,sqm,1003,208
+T-039,1,Fire Fighting,Sprinkler Head,Imported,1870,nr,143,26
+T-039,2,Plumbing,Sanitary Fixture,Imported,274,No.,3916,1484
+T-039,3,HVAC,Chiller,Imported,5,nr,1078103,181178
+T-039,4,Plumbing,Water Supply Pipe,Local,2389,M,227,101
+T-039,5,HVAC,Ductwork,Local,8692,M2,543,191
+T-039,6,HVAC,chilled water pipe,Local,4972,M,828,126
+T-039,7,HVAC,Air Handling Unit,Local,20,nr,241348,104110
+T-039,8,Plumbing,Drainage Pipe,Local,1953,m,263,115
+T-039,9,Fire Fighting,Fire Hose Cabinet,Local,27,No.,8394,2834
+T-039,10,Fire Fighting,Fire Pump Set,Imported,2,No.,442132,105438
+T-039,11,HVAC,FCU,Imported,320,No.,11159,4100
+T-040,1,HVAC,FCU,Imported,228,nr,11493,4120
+T-040,2,Plumbing,Sanitary Fixture,Imported,286,No.,4085,1103
+T-040,3,HVAC,CHW Pipe,Local,2679,m,772,282
+T-040,4,Plumbing,Water Supply Pipe,Local,1546,meter,240,53
+T-040,5,Fire Fighting,Fire Hose Cabinet,Local,22,nr,8298,1860
+T-040,6,Plumbing,Drainage Pipe,Local,2980,meter,258,53
+T-040,7,HVAC,Air Handling Unit,Local,14,pcs,218546,47873
+T-041,1,HVAC,Chiller,Imported,1,nr,1976932,753256
+T-041,2,HVAC,chilled water pipe,Local,1954,m,1409,397
+T-041,3,Fire Fighting,Fire Pump Set,Imported,1,nr,806871,358293
+T-041,4,Fire Fighting,Fire Hose Cabinet,Local,9,No.,13288,4622
+T-041,5,Plumbing,Drainage Pipe,Local,954,M,527,147
+T-041,6,HVAC,Fan coil unit,Imported,60,nr,22720,8181
+T-041,7,Plumbing,Sanitary Fixture,Imported,109,No.,8735,3919
+T-041,8,HVAC,AHU,Local,10,nr,366078,62406
+T-042,1,HVAC,Air Handling Unit,Local,2,No.,373243,147863
+T-042,2,HVAC,Chilled Water Pipe,Local,,meter,1405,361
+T-042,3,HVAC,Fan Coil Unit,Imported,100,pcs,19569,4414
+T-042,4,Plumbing,Sanitary Fixture,Imported,218,No.,8128,1786
+T-042,5,Fire Fighting,Fire Pump Set,Imported,2,nr,778262,289339
+T-042,6,HVAC,Chiller,Imported,3,nr,1924905,639875
+T-042,7,Plumbing,Water Supply Pipe,Local,1051,meter,365,121
+T-042,8,Fire Fighting,Fire Hose Cabinet,Local,33,No.,13473,5101
+T-042,9,Plumbing,Drainage Pipe,Local,1754,M,491,133
+T-042,10,HVAC,Ductwork,Local,6913,m2,1005,372
+T-042,11,Fire Fighting,sprinkler head,Imported,3630,nr,263,79
+T-043,1,Plumbing,Drainage Pipe,Local,597,m,475,152
+T-043,2,HVAC,CHW Pipe,Local,812,m,1477,481
+T-043,3,HVAC,ahu ,Local,3,No.,398850,100097
+T-043,4,HVAC,FCU,Imported,,nr,19524,8705
+T-043,5,Fire Fighting,Fire Hose Cabinet,Local,90,pcs,14687,4878
+T-043,6,HVAC,Ductwork,Local,1980,sqm,925,186
+T-043,7,Fire Fighting,Fire Pump Set,Imported,2,No.,750126,132872
+T-044,1,HVAC,Ductwork,Local,9561,m2,918,350
+T-044,2,HVAC,CHW Pipe,Local,3642,meter,1302,429
+T-044,3,HVAC,Chiller,Imported,2,No.,2046503,911342
+T-044,4,Fire Fighting,Sprinkler,Imported,582,nr,253,82
+T-044,5,HVAC,Air Handling Unit,Local,6,pcs,421067,182540
+T-044,6,Plumbing,Drainage Pipe,Local,1340,meter,466,87
+T-044,7,Plumbing,Water Supply Pipe,Local,1832,M,364,99
+T-045,1,Fire Fighting,sprinkler head,Imported,690,nr,144,24
+T-045,2,HVAC,FCU,Imported,282,nr,10384,3829
+T-045,3,HVAC,Air Handling Unit,Local,9,pcs,190223,32957
+T-045,4,Plumbing,Sanitary Fixture,Imported,450,nr,3769,1163
+T-045,5,Plumbing,Drainage Pipe,Local,1994,meter,253,92
+T-045,6,Fire Fighting,Fire Hose Cabinet,Local,46,nr,7447,1306
+T-045,7,Fire Fighting,Fire Pump Set,Imported,2,pcs,380694,167275
+T-046,1,Fire Fighting,Fire Hose Cabinet,Local,42,pcs,12921,2354
+T-046,2,HVAC,Ductwork,Local,7700,M2,933,170
+T-046,3,Fire Fighting,Fire Pump Set,Imported,2,nr,736448,319996
+T-046,4,HVAC,Chiller,Imported,2,nr,2084727,923391
+T-046,5,HVAC,Fan coil unit,Imported,284,No.,19620,8785
+T-046,6,Plumbing,Drainage Pipe,Local,1338,m,440,95
+T-046,7,Fire Fighting,Sprinkler,Imported,4776,pcs,270,70
+T-046,8,Plumbing,Water Supply Pipe,Local,710,m,450,153
+T-047,1,HVAC,Ductwork,Local,6490,sqm,882,248
+T-047,2,Fire Fighting,Fire Pump Set,Imported,2,nr,826738,179550
+T-047,3,HVAC,Fan coil unit,Imported,30,No.,21672,5906
+T-047,4,HVAC,Air handling unit,Local,12,No.,433578,100000
+T-047,5,HVAC,Chiller,Imported,4,pcs,1903810,342819
+T-047,6,Plumbing,Drainage Pipe,Local,,m,457,177
+T-047,7,Fire Fighting,Fire Hose Cabinet,Local,39,No.,13962,2688
+T-047,8,Fire Fighting,Sprinkler,Imported,1228,pcs,267,74
+T-047,9,HVAC,chilled water pipe,Local,2041,M,1515,405
+T-048,1,Plumbing,Drainage Pipe,Local,2385,m,243,106
+T-048,2,Plumbing,Sanitary Fixture,Imported,356,No.,3983,1167
+T-048,3,Fire Fighting,Fire Hose Cabinet,Local,11,No.,7669,2172
+T-048,4,Plumbing,Water Supply Pipe,Local,2653,m,201,73
+T-048,5,HVAC,Chiller,Imported,5,nr,952691,279353
+T-048,6,Fire Fighting,sprinkler head,Imported,6638,pcs,128,29
+T-048,7,Fire Fighting,Fire Pump Set,Imported,4,No.,375564,102223
+T-048,8,HVAC,Ductwork,Local,5868,sqm,507,199
+T-048,9,HVAC,Chilled Water Pipe,Local,1726,m,693,199
+T-049,1,Fire Fighting,Fire Hose Cabinet,Local,59,pcs,13680,5093
+T-049,2,HVAC,FCU,Imported,22,No.,20193,7462
+T-049,3,HVAC,Chiller,Imported,4,No.,2108724,935363
+T-049,4,Plumbing,Sanitary Fixture,Imported,31,nr,7397,1550
+T-049,5,HVAC,ahu ,Local,9,pcs,400025,119941
+T-049,6,Fire Fighting,Sprinkler Head,Imported,1964,nr,263,104
+T-049,7,Plumbing,Water Supply Pipe,Local,2356,meter,374,99
+T-049,8,HVAC,Ductwork,Local,7967,m2,968,178
+T-049,9,Fire Fighting,Fire Pump Set,Imported,2,pcs,821571,330461
+T-050,1,Plumbing,Drainage Pipe,Local,403,m,462,73
+T-050,2,HVAC,Fan coil unit,Imported,166,No.,19046,5480
+T-050,3,Fire Fighting,Fire Hose Cabinet,Local,,No.,14142,2884
+T-050,4,Fire Fighting,Sprinkler Head,Imported,3001,No.,295,121
+T-050,5,HVAC,Ductwork,Local,6166,sqm,1048,391
+T-050,6,Plumbing,Sanitary Fixture,Imported,224,nr,8150,2681
+T-050,7,HVAC,Chilled Water Pipe,Local,2851,M,1453,392
+T-050,8,HVAC,Chiller,Imported,4,nr,2047691,859259
+T-050,9,Fire Fighting,Fire Pump Set,Imported,2,nr,876825,342678
+T-050,10,HVAC,Air Handling Unit,Local,8,No.,375921,60562
+T-051,1,Plumbing,Drainage Pipe,Local,896,M,443,102
+T-051,2,HVAC,chilled water pipe,Local,2810,m,1388,342
+T-051,3,Plumbing,Sanitary Fixture,Imported,310,nr,7962,3011
+T-051,4,Fire Fighting,Fire Pump Set,Imported,2,pcs,871529,169240
+T-051,5,Fire Fighting,Fire Hose Cabinet,Local,24,nr,12833,3453
+T-051,6,Plumbing,Water Supply Pipe,Local,1034,M,366,61
+T-052,1,HVAC,Chilled Water Pipe,Local,1029,m,1317,330
+T-052,2,Plumbing,Sanitary Fixture,Imported,160,No.,8405,3164
+T-052,3,HVAC,Ductwork,Local,8685,M2,934,325
+T-052,4,HVAC,FCU,Imported,40,nr,21292,8866
+T-052,5,Plumbing,Drainage Pipe,Local,1250,meter,503,154
+T-052,6,HVAC,Chiller,Imported,3,No.,1956726,853339
+T-052,7,Fire Fighting,sprinkler head,Imported,4953,pcs,262,84
+T-052,8,Fire Fighting,Fire Hose Cabinet,Local,20,pcs,15071,5399
+T-052,9,Fire Fighting,Fire Pump Set,Imported,,pcs,741161,200768
+T-052,10,Plumbing,Water Supply Pipe,Local,3278,M,381,116
+T-052,11,HVAC,Air Handling Unit,Local,6,nr,404949,73329
+T-053,1,Fire Fighting,Fire Hose Cabinet,Local,103,No.,14689,2856
+T-053,2,Fire Fighting,sprinkler head,Imported,4700,pcs,276,96
+T-053,3,HVAC,Chiller,Imported,4,nr,1860228,557752
+T-053,4,Plumbing,Drainage Pipe,Local,3161,meter,481,206
+T-053,5,Fire Fighting,Fire Pump Set,Imported,4,pcs,755187,190468
+T-053,6,Plumbing,Water Supply Pipe,Local,4433,m,427,141
+T-053,7,HVAC,ahu ,Local,11,pcs,362340,113821
+T-053,8,Plumbing,Sanitary Fixture,Imported,92,No.,7957,1839
+T-053,9,HVAC,chilled water pipe,Local,4201,meter,1362,517
+T-054,1,HVAC,Ductwork,Local,9788,sqm,430,149
+T-054,2,Plumbing,Drainage Pipe,Local,1242,M,221,89
+T-054,3,Fire Fighting,Fire Pump Set,Imported,2,nr,346877,138110
+T-054,4,HVAC,Air Handling Unit,Local,22,pcs,172832,66503
+T-054,5,Fire Fighting,Sprinkler,Imported,3778,nr,121,41
+T-054,6,Plumbing,Sanitary Fixture,Imported,52,No.,3809,1038
+T-055,1,Fire Fighting,Sprinkler,Imported,3103,No.,258,44
+T-055,2,HVAC,Air Handling Unit,Local,2,No.,422685,168744
+T-055,3,HVAC,Ductwork,Local,7043,sqm,983,241
+T-055,4,HVAC,Chiller,Imported,3,nr,2211990,703716
+T-055,5,Plumbing,Water Supply Pipe,Local,2283,meter,363,67
+T-055,6,Fire Fighting,Fire Hose Cabinet,Local,14,No.,13805,2599
+T-055,7,Plumbing,Sanitary Fixture,Imported,170,pcs,8907,3296
+T-056,1,HVAC,Chilled Water Pipe,Local,3746,meter,801,154
+T-056,2,HVAC,Chiller,Imported,4,No.,1136084,453651
+T-056,3,HVAC,Ductwork,Local,5530,m2,526,190
+T-056,4,Fire Fighting,Fire Hose Cabinet,Local,64,No.,8738,2543
+T-056,5,Fire Fighting,Fire Pump Set,Imported,4,nr,498643,154150
+T-056,6,HVAC,Fan coil unit,Imported,158,nr,11038,3964
+T-056,7,HVAC,AHU,Local,18,pcs,227784,73290
+T-056,8,Plumbing,Drainage Pipe,Local,850,m,277,87
+T-056,9,Fire Fighting,Sprinkler Head,Imported,894,nr,148,51
+T-056,10,Plumbing,Water Supply Pipe,Local,1294,M,215,60
+T-057,1,Fire Fighting,Fire Pump Set,Imported,1,No.,778309,318677
+T-057,2,Fire Fighting,Fire Hose Cabinet,Local,10,No.,13798,5677
+T-057,3,HVAC,Ductwork,Local,8807,M2,908,183
+T-057,4,Plumbing,Drainage Pipe,Local,486,meter,441,127
+T-057,5,HVAC,Air handling unit,Local,4,No.,391595,65918
+T-057,6,Fire Fighting,Sprinkler Head,Imported,1735,nr,282,93
+T-057,7,Plumbing,Water Supply Pipe,Local,1030,M,362,69
+T-057,8,HVAC,FCU,Imported,190,pcs,21421,7680
+T-057,9,HVAC,Chilled Water Pipe,Local,2083,meter,1397,464
+T-057,10,Plumbing,Sanitary Fixture,Imported,265,No.,7961,1392
+T-057,11,HVAC,Chiller,Imported,1,No.,2186373,454508
+T-058,1,Plumbing,Water Supply Pipe,Local,670,M,167,41
+T-058,2,Plumbing,Sanitary Fixture,Imported,111,No.,3377,1469
+T-058,3,HVAC,Chiller,Imported,2,nr,908582,296240
+T-058,4,Fire Fighting,Sprinkler Head,Imported,2996,pcs,112,35
+T-058,5,HVAC,AHU,Local,9,nr,160393,69843
+T-058,6,Plumbing,Drainage Pipe,Local,1814,m,218,38
+T-059,1,Plumbing,Drainage Pipe,Local,1762,m,250,65
+T-059,2,HVAC,Ductwork,Local,7323,M2,526,186
+T-059,3,Plumbing,Sanitary Fixture,Imported,235,nr,3859,1244
+T-059,4,Fire Fighting,Fire Hose Cabinet,Local,5,pcs,6801,1034
+T-059,5,Fire Fighting,Fire Pump Set,Imported,2,No.,370650,130654
+T-059,6,Fire Fighting,Sprinkler Head,Imported,2523,pcs,139,50
+T-059,7,HVAC,Chiller,Imported,4,pcs,984978,202097
+T-059,8,HVAC,AHU,Local,12,nr,201632,66818
+T-059,9,HVAC,chilled water pipe,Local,,M,694,203
+T-059,10,Plumbing,Water Supply Pipe,Local,1609,M,203,76
+T-059,11,HVAC,Fan Coil Unit,Imported,27,No.,10372,2235
+T-060,1,HVAC,Chiller,Imported,4,No.,2029345,880019
+T-060,2,Plumbing,Water Supply Pipe,Local,1962,M,399,115
+T-060,3,Fire Fighting,Fire Pump Set,Imported,2,nr,726553,124320
+T-060,4,Plumbing,Drainage Pipe,Local,3332,M,463,179
+T-060,5,Fire Fighting,Fire Hose Cabinet,Local,106,pcs,14497,5467
+T-060,6,HVAC,Ductwork,Local,16170,sqm,905,319
+T-060,7,Fire Fighting,Sprinkler Head,Imported,1652,pcs,281,82
+T-060,8,HVAC,chilled water pipe,Local,1876,meter,1411,406
+T-060,9,Plumbing,Sanitary Fixture,Imported,576,nr,8404,2689
+T-060,10,HVAC,Fan coil unit,Imported,132,nr,20069,4381
+T-060,11,HVAC,Air Handling Unit,Local,18,nr,384806,124875
+T-061,1,Fire Fighting,Fire Pump Set,Imported,3,nr,740477,158436
+T-061,2,HVAC,chilled water pipe,Local,3708,meter,1349,326
+T-061,3,Fire Fighting,sprinkler head,Imported,2386,nr,282,110
+T-061,4,Fire Fighting,Fire Hose Cabinet,Local,16,nr,14441,4937
+T-061,5,Plumbing,Drainage Pipe,Local,1646,M,466,204
+T-061,6,Plumbing,Sanitary Fixture,Imported,194,No.,7815,2101
+T-061,7,HVAC,Chiller,Imported,2,nr,2001550,751726
+T-061,8,HVAC,Fan coil unit,Imported,135,pcs,19338,5989
+T-061,9,Plumbing,Water Supply Pipe,Local,2628,m,393,137
+T-062,1,HVAC,Ductwork,Local,3668,m2,983,297
+T-062,2,Plumbing,Drainage Pipe,Local,214,m,457,146
+T-062,3,HVAC,ahu ,Local,4,No.,411181,173804
+T-062,4,Plumbing,Sanitary Fixture,Imported,33,pcs,8176,2366
+T-062,5,Fire Fighting,Fire Hose Cabinet,Local,33,No.,15156,2846
+T-062,6,Fire Fighting,Sprinkler,Imported,1223,pcs,264,66
+T-062,7,HVAC,Chiller,Imported,1,pcs,1951626,728909
+T-062,8,HVAC,CHW Pipe,Local,1681,meter,1556,641
+T-062,9,Plumbing,Water Supply Pipe,Local,639,m,363,130
+T-062,10,Fire Fighting,Fire Pump Set,Imported,2,No.,829717,346924
+T-062,11,HVAC,FCU,Imported,96,No.,21551,7410
+T-063,1,Plumbing,Water Supply Pipe,Local,1876,meter,211,37
+T-063,2,HVAC,Air handling unit,Local,10,nr,190199,42381
+T-063,3,HVAC,Chiller,Imported,4,No.,978659,386164
+T-063,4,HVAC,CHW Pipe,Local,2583,meter,669,258
+T-063,5,Plumbing,Sanitary Fixture,Imported,231,nr,4191,1778
+T-063,6,Fire Fighting,sprinkler head,Imported,2372,pcs,135,24
+T-063,7,Plumbing,Drainage Pipe,Local,1542,m,227,91
+T-063,8,HVAC,Ductwork,Local,6750,M2,508,213
+T-064,1,Fire Fighting,Sprinkler,Imported,2652,pcs,263,115
+T-064,2,HVAC,Ductwork,Local,1251,m2,904,346
+T-064,3,Plumbing,Water Supply Pipe,Local,2469,meter,405,72
+T-064,4,Fire Fighting,Fire Hose Cabinet,Local,32,No.,13143,5771
+T-064,5,Plumbing,Sanitary Fixture,Imported,187,pcs,7971,1268
+T-064,6,HVAC,FCU,Imported,50,nr,21816,4840
+T-065,1,Fire Fighting,Sprinkler Head,Imported,3841,pcs,122,25
+T-065,2,Fire Fighting,Fire Hose Cabinet,Local,94,No.,7207,2181
+T-065,3,Fire Fighting,Fire Pump Set,Imported,2,nr,368532,154819
+T-065,4,Plumbing,Drainage Pipe,Local,376,meter,229,48
+T-065,5,Plumbing,Sanitary Fixture,Imported,286,pcs,3588,718
+T-065,6,HVAC,CHW Pipe,Local,3476,m,685,192
+T-065,7,HVAC,Chiller,Imported,7,nr,966278,406290
+T-065,8,HVAC,FCU,Imported,106,No.,8597,3157
+T-065,9,Plumbing,Water Supply Pipe,Local,1305,M,174,75
+T-065,10,HVAC,AHU,Local,22,No.,181231,65824
+T-066,1,HVAC,Fan Coil Unit,Imported,338,pcs,20325,3194
+T-066,2,Fire Fighting,Fire Pump Set,Imported,2,nr,838477,209160
+T-066,3,HVAC,Ductwork,Local,7427,M2,1055,443
+T-066,4,Fire Fighting,Sprinkler,Imported,1413,pcs,251,105
+T-066,5,HVAC,Chiller,Imported,5,pcs,1964365,407816
+T-066,6,Plumbing,Water Supply Pipe,Local,713,M,385,93
+T-066,7,Plumbing,Drainage Pipe,Local,1760,m,448,183
+T-066,8,HVAC,CHW Pipe,Local,1487,m,1418,481
+T-066,9,Fire Fighting,Fire Hose Cabinet,Local,79,No.,13512,3595
+T-067,1,Fire Fighting,Fire Pump Set,Imported,2,pcs,747260,296917
+T-067,2,HVAC,Air handling unit,Local,3,pcs,378886,90961
+T-067,3,HVAC,Chiller,Imported,3,No.,2104567,580606
+T-067,4,HVAC,FCU,Imported,152,No.,18357,6095
+T-067,5,Fire Fighting,Fire Hose Cabinet,Local,54,nr,13434,5871
+T-067,6,Plumbing,Sanitary Fixture,Imported,268,nr,7886,2496
+T-067,7,Plumbing,Drainage Pipe,Local,2445,m,517,194
+T-068,1,Plumbing,Sanitary Fixture,Imported,400,No.,4780,1468
+T-068,2,HVAC,Ductwork,Local,10440,M2,532,111
+T-068,3,Fire Fighting,sprinkler head,Imported,1450,No.,155,32
+T-068,4,HVAC,Air handling unit,Local,18,pcs,211264,64943
+T-068,5,HVAC,Fan Coil Unit,Imported,63,No.,10210,3855
+T-068,6,Plumbing,Drainage Pipe,Local,1838,meter,265,57
+T-069,1,Plumbing,Drainage Pipe,Local,928,M,263,90
+T-069,2,HVAC,Chiller,Imported,3,pcs,1128811,331930
+T-069,3,HVAC,CHW Pipe,Local,1976,M,782,269
+T-069,4,Plumbing,Sanitary Fixture,Imported,87,nr,4279,988
+T-069,5,HVAC,AHU,Local,4,No.,208329,76178
+T-069,6,HVAC,Ductwork,Local,7882,M2,550,181
+T-069,7,Fire Fighting,Fire Pump Set,Imported,2,nr,422564,105574
+T-069,8,Plumbing,Water Supply Pipe,Local,3219,meter,218,87
+T-070,1,Plumbing,Sanitary Fixture,Imported,198,No.,3870,617
+T-070,2,HVAC,Chiller,Imported,2,nr,1003107,279423
+T-070,3,Plumbing,Water Supply Pipe,Local,706,meter,193,34
+T-070,4,Fire Fighting,Fire Pump Set,Imported,2,pcs,385091,138301
+T-070,5,HVAC,CHW Pipe,Local,4466,meter,736,165
+T-070,6,HVAC,Ductwork,Local,5540,M2,483,133
+T-070,7,Plumbing,Drainage Pipe,Local,2012,meter,237,70
+T-070,8,Fire Fighting,Fire Hose Cabinet,Local,24,nr,6835,1412
+T-071,1,Plumbing,Sanitary Fixture,Imported,231,No.,3736,1232
+T-071,2,Fire Fighting,Fire Pump Set,Imported,2,nr,366428,156024
+T-071,3,HVAC,Chiller,Imported,4,nr,998120,440872
+T-071,4,HVAC,FCU,Imported,152,nr,9715,4043
+T-071,5,Fire Fighting,Sprinkler,Imported,2283,No.,117,34
+T-071,6,Plumbing,Water Supply Pipe,Local,1041,meter,184,28
+T-072,1,HVAC,Fan Coil Unit,Imported,177,nr,11586,2709
+T-072,2,HVAC,AHU,Local,12,pcs,201379,80847
+T-072,3,Fire Fighting,Fire Pump Set,Imported,2,pcs,409198,108148
+T-072,4,Plumbing,Water Supply Pipe,Local,3186,M,205,69
+T-072,5,Plumbing,Drainage Pipe,Local,543,meter,248,97
+T-072,6,HVAC,Chiller,Imported,2,pcs,1154282,469357
+T-072,7,Plumbing,Sanitary Fixture,Imported,45,No.,3968,1357
+T-073,1,Plumbing,Sanitary Fixture,Imported,126,No.,7727,1659
+T-073,2,Fire Fighting,Fire Pump Set,Imported,3,No.,750787,206271
+T-073,3,Plumbing,Water Supply Pipe,Local,1071,M,398,77
+T-073,4,Plumbing,Drainage Pipe,Local,483,M,487,202
+T-073,5,Fire Fighting,Fire Hose Cabinet,Local,80,No.,14434,4836
+T-073,6,HVAC,Fan Coil Unit,Imported,45,No.,21609,8343
+T-073,7,HVAC,Chilled Water Pipe,Local,3482,m,1379,540
+T-073,8,HVAC,Ductwork,Local,11862,M2,991,369
+T-073,9,HVAC,Air handling unit,Local,9,nr,414563,100491
+T-073,10,HVAC,Chiller,Imported,6,No.,2054021,400563
+T-074,1,Plumbing,Water Supply Pipe,Local,540,meter,400,79
+T-074,2,Fire Fighting,sprinkler head,Imported,1247,No.,288,83
+T-074,3,HVAC,Chiller,Imported,2,nr,2120178,914286
+T-074,4,HVAC,Air handling unit,Local,22,pcs,429642,169594
+T-074,5,Fire Fighting,Fire Pump Set,Imported,,nr,848264,137024
+T-074,6,HVAC,FCU,Imported,,pcs,20122,3287
+T-074,7,Fire Fighting,Fire Hose Cabinet,Local,81,No.,14634,3360
+T-074,8,Plumbing,Sanitary Fixture,Imported,239,pcs,7899,3378
+T-074,9,HVAC,Ductwork,Local,11129,M2,969,341
+T-074,10,HVAC,Chilled Water Pipe,Local,2043,M,1341,589
+T-074,11,Plumbing,Drainage Pipe,Local,806,meter,461,135
+T-075,1,HVAC,Chiller,Imported,4,pcs,962162,387661
+T-075,2,HVAC,Ductwork,Local,2708,m2,502,84
+T-075,3,Plumbing,Sanitary Fixture,Imported,152,nr,4316,1117
+T-075,4,Fire Fighting,Fire Pump Set,Imported,2,No.,385140,133786
+T-075,5,Fire Fighting,sprinkler head,Imported,860,No.,130,45
+T-075,6,HVAC,Fan coil unit,Imported,181,No.,10313,2877
+T-075,7,Plumbing,Water Supply Pipe,Local,2461,meter,202,89
+T-075,8,Fire Fighting,Fire Hose Cabinet,Local,7,No.,7507,1367
+T-075,9,HVAC,ahu ,Local,4,nr,242580,72040
+T-075,10,HVAC,CHW Pipe,Local,312,M,739,254
+T-076,1,Fire Fighting,Fire Pump Set,Imported,,No.,778753,249501
+T-076,2,HVAC,Fan Coil Unit,Imported,100,nr,19505,5684
+T-076,3,HVAC,Chiller,Imported,3,No.,1963931,301482
+T-076,4,HVAC,Chilled Water Pipe,Local,2172,M,1403,422
+T-076,5,Plumbing,Water Supply Pipe,Local,450,m,424,122
+T-076,6,Fire Fighting,sprinkler head,Imported,4250,nr,282,74
+T-076,7,Plumbing,Sanitary Fixture,Imported,112,pcs,7885,1555
+T-076,8,Plumbing,Drainage Pipe,Local,2328,m,440,116
+T-076,9,HVAC,Ductwork,Local,4034,m2,1007,392
+T-076,10,HVAC,Air Handling Unit,Local,15,pcs,364886,123132
+T-077,1,HVAC,Air Handling Unit,Local,3,nr,164795,50537
+T-077,2,Fire Fighting,Fire Hose Cabinet,Local,37,nr,5630,994
+T-077,3,HVAC,Chiller,Imported,2,pcs,827971,183906
+T-077,4,Plumbing,Water Supply Pipe,Local,2184,m,162,67
+T-077,5,Fire Fighting,Fire Pump Set,Imported,2,No.,342200,93179
+T-077,6,Plumbing,Sanitary Fixture,Imported,234,No.,3407,1285
+T-077,7,HVAC,Chilled Water Pipe,Local,1064,meter,662,165
+T-077,8,Fire Fighting,sprinkler head,Imported,552,No.,110,34
+T-077,9,HVAC,Ductwork,Local,1591,sqm,463,202
+T-077,10,HVAC,FCU,Imported,149,pcs,8865,3160
+T-077,11,Plumbing,Drainage Pipe,Local,1218,M,201,44
+T-078,1,Plumbing,Sanitary Fixture,Imported,270,No.,7903,1462
+T-078,2,HVAC,CHW Pipe,Local,850,M,1366,573
+T-078,3,Plumbing,Water Supply Pipe,Local,4293,m,373,83
+T-078,4,Fire Fighting,Fire Pump Set,Imported,4,nr,829741,137754
+T-078,5,HVAC,Ductwork,Local,1971,sqm,1131,426
+T-078,6,HVAC,AHU,Local,22,No.,377832,68957
+T-078,7,Fire Fighting,Fire Hose Cabinet,Local,97,nr,13725,3400
+T-079,1,HVAC,Fan Coil Unit,Imported,103,No.,19114,8489
+T-079,2,Fire Fighting,Sprinkler Head,Imported,6269,No.,273,82
+T-079,3,Plumbing,Drainage Pipe,Local,3361,M,472,174
+T-079,4,Plumbing,Water Supply Pipe,Local,2531,m,378,96
+T-079,5,HVAC,Air Handling Unit,Local,16,No.,369371,107176
+T-079,6,HVAC,chilled water pipe,Local,1750,M,1321,375
+T-080,1,HVAC,CHW Pipe,Local,1931,meter,607,225
+T-080,2,HVAC,Air handling unit,Local,11,nr,161655,65999
+T-080,3,HVAC,Ductwork,Local,3200,M2,436,67
+T-080,4,Plumbing,Sanitary Fixture,Imported,73,nr,3167,596
+T-080,5,HVAC,Chiller,Imported,1,pcs,841758,197872
+T-080,6,Plumbing,Water Supply Pipe,Local,2378,M,173,51
+T-080,7,HVAC,Fan Coil Unit,Imported,158,No.,9262,2497
+T-080,8,Fire Fighting,Sprinkler,Imported,1810,nr,120,46
+T-039,3,HVAC,Chiller,Imported,5,nr,1078103,181178
+T-025,6,Plumbing,Sanitary Fixture,Imported,284,pcs,7677,2269
+T-080,4,Plumbing,Sanitary Fixture,Imported,73,nr,3167,596
+T-032,10,Fire Fighting,Fire Hose Cabinet,Local,110,pcs,8351,2488
+T-079,6,HVAC,chilled water pipe,Local,1750,M,1321,375
+T-018,5,Fire Fighting,Fire Pump Set,Imported,2,pcs,368153,155896
+T-067,3,HVAC,Chiller,Imported,3,No.,2104567,580606
+T-073,5,Fire Fighting,Fire Hose Cabinet,Local,80,No.,14434,4836
+T-035,7,HVAC,Ductwork,Local,4900,sqm,900,170
+T-050,9,Fire Fighting,Fire Pump Set,Imported,2,nr,876825,342678
