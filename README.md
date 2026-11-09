@@ -88,6 +88,8 @@ This is my first BPMN 2.0 model. I drew the tender process I know from my work a
 | `generate_data.py` | Fictional data generator (Python, standard library only) |
 | `data_raw/` | Generated raw CSV files |
 | `tender_cleaning.xlsx` | Power Query cleaning steps |
+| `Tender_Prozess.bpmn` | BPMN 2.0 model of the tender process (editable in demo.bpmn.io) |
+| `Tender_Prozess.png`, `.svg` | The same model as an image |
 
 ## Next steps
 
