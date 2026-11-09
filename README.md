@@ -54,6 +54,30 @@ Instead of hiding the gap, the waterfall shows it as its own step ("Missing BOQ 
    - escalation amount per contract: `W × factor × (X2 − X1) / X1` with factor 0.75 for imported and 0.65 for local items, only above a contract threshold
    - waterfall steps with a reconciliation step for missing BOQ data
 
+
+## Process model (BPMN 2.0)
+
+[![Tender process as BPMN 2.0](Tender_Prozess.png)](Tender_Prozess.png)
+
+*Click the image to open it in full size.*
+
+This is my first BPMN 2.0 model. I drew the tender process I know from my work as head of a technical office, in German, with the free modeller [demo.bpmn.io](https://demo.bpmn.io). The dashboard analyses the results of this process; the diagram shows how a bid comes about.
+
+**What the model shows**
+- A tender arrives, is checked, and a first decision is made: is it worth taking part (*Teilnahme sinnvoll?*).
+- Quantity take-off (BOQ), supplier quotes, comparison on a net basis (quotes come with or without 14 % VAT), unit prices, then overhead, risk and profit.
+- **Management approval loop:** if the bid is not approved, the question is what to change. Either the overhead is reduced, or alternative equipment or a discount is requested from suppliers, and the process goes back to the matching step.
+- After submission the result decides the path: *won* leads to project start and cost tracking, *lost* leads to the analysis of the price gap to the winning bid.
+
+**How it connects to the dashboard**
+- The *Competitiveness* page (win rate, price gap to the winning bid) analyses the step *Ergebnis?* and the lost-tender path.
+- The *Project Cost Controlling* page covers *Projekt starten und Kosten verfolgen*.
+- The *Price Waterfall* page shows how the steps from unit prices to overhead and profit build up the bid price.
+
+**BPMN elements used:** start and end events, tasks, exclusive gateways (decisions and merges), sequence flows, a text annotation.
+
+**Limits:** one process in one pool, no swim lanes (who does what), simplified from memory of a real workflow. No real company data. The editable source is `Tender_Prozess.bpmn`; it can be opened in demo.bpmn.io.
+
 ## Files
 
 | File | Content |
